@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="img/|img/pezzi/classico/bianchi/|img/pezzi/classico/neri/|img/pezzi/dragonball/bianchi/|img/pezzi/dragonball/neri/|img/pezzi/naruto/bianchi/|img/pezzi/naruto/neri/|img/pezzi/onepiece/bianchi/|img/pezzi/onepiece/neri/|img/scacchiera/classico/|img/start/|img/theme/|img/turn/classico/|img/turn/naruto/|img/turn/onepiece/|img/win/|img/win/classico/|img/win/naruto/|img/win/onepiece/|wav/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
